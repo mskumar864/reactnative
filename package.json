@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.2.0",
+    "fb-watchman": "^2.0.0",
+    "react": "16.5.0",
+    "react-native": "0.55.4",
+    "rm": "^0.1.8"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
